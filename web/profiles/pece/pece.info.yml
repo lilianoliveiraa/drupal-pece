@@ -37,6 +37,7 @@ install:
   - editor
   - ckeditor
   - config_split
+  - workflow
 
 dependencies:
   - node
@@ -44,6 +45,7 @@ dependencies:
   - views
   - pece_core
   - og
+  - workflow
 
 themes:
   - bartik
